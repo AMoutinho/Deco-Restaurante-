@@ -5,6 +5,7 @@
   <a href="#requisitos">Requisitos para Instalação</a>&nbsp;&nbsp;&nbsp;  
   <a href="#instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;  
   <a href="#autenticacao">Autenticação</a>&nbsp;&nbsp;&nbsp;  
+  <a href="#funcionalidade">Funcionalidades</a>&nbsp;&nbsp;&nbsp;  
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
   <a href="#telas">Telas</a>&nbsp;&nbsp;&nbsp;
   <a href="#desenvolvedor">Desenvolvedor</a>&nbsp;&nbsp;&nbsp; 
@@ -45,17 +46,43 @@
 <b>E-mail: admin@localhost</b></br>
 <b>Senha:  12345678</b></br>
 
+<h2 id="funcionalidade">Funcionalidades 🛠</h2>
+<b>O projeto possui 2 níveis por padrão de usuários: <i>Administrador e Garçom</i>, abaixo seguem as funcionalidades em cada um dos perfis: </b></br>
+</br>
+<b>ADMINISTRADOR</b></br>
+✅ <i>Adiciona um produto para comercialização</i></br>
+✅ <i>Visualiza a quantidade de pessoas na mesa</i></br> 
+✅ <i>Visualiza os pedidos e cada mesa</i></br> 
+✅ <i>Visualiza as formas de pagamento utilizadas</i></br>
+✅ <i>Visualiza um gráfico dos últimos 7 dias</i></br>
+</br>
+<b>GARÇOM</b></br>
+✅ <i>Adiciona produtos as mesas</i></br>
+✅ <i>Detalhas os produtos de cada mesa</i></br>
+✅ <i>Realiza o fechamento da conta</i></br>
+✅ <i>Seleciona a forma de pagamento</i></br> 
+✅ <i>Resumo dos pedidos após pagamento</i></br>
+
+
+
 <h2 id="tecnologias">Tecnologias </></h2>
 
 O sistema prioritariamente utiliza as seguintes tecnologias: 
 
-✔️ Framework Laravel</br>
-✔️ Blade</br>
-✔️ Javascript</br>
+🔵 Framework Laravel</br>
+🔵 Blade</br>
+🔵 Javascript</br>
 
 <h2 id="telas">Telas 🖥️</h2>
 
-<b><i>EM BREVE!</i></b>
+<div align="left">
+  <img src="https://i.postimg.cc/yYpLWQRG/Pagina-Inicial.png" width="300">
+  <img src="https://i.postimg.cc/zX2x3thx/Adc-Produtos-Mesas.png" width="300">
+  <img src="https://i.postimg.cc/xTp6qxms/Fechar-Conta-Mesas.png" width="300">
+  <img src="https://i.postimg.cc/8PXZsKvK/Forma-de-Pagamento-Conta-Mesa.png" width="300">
+  <img src="https://i.postimg.cc/28903cW9/Mesas.png" width="300">
+  <img src="https://i.postimg.cc/L6QxhCP7/Resumo-Mesa-Pagamento.png" width="300">  
+</div>
 
 <h2 id="desenvolvedor">Desenvolvedor 👨🏻‍💼</h2>
 <a style="text-decoration:none;" href="https://github.com/AMoutinho" title="André Moutinho">  <img width="25" height="25" src="https://img.icons8.com/fluency/25/github.png" alt="github"/> <span style="text-decoration:none;">André Moutinho</span></a>  
